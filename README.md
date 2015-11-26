@@ -1,4 +1,4 @@
-# alfred2-workflow-safari-bookmark
+# Safari Bookmark Manager
 
 Alfred 2 Workflow to manage safari bookmark (delete / edit)
 
