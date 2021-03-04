@@ -1,3 +1,8 @@
+EDIT
+
+Does NOT work anymore with Alfred 4 :(
+
+
 # Safari Bookmark Manager
 
 Alfred 2 Workflow to manage safari bookmark (delete / edit)
